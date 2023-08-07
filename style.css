@@ -64,7 +64,7 @@
     border-radius: 8px;
     margin: 5px 10px;
     background-color: #c9e0f1;
-    -webkit-transition: 0.5s;
+    webkit-transition: 0.5s;
     transition: 0.5s;
     position: relative;
 }
